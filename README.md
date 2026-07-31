@@ -54,8 +54,7 @@ MR系列项目永久免费使用
 - 2.(本地服务器)
  1.将该包解压
  2.将重要插件，列表直接移入 /plugins 里
- 3.使用jdk25 没有去这里下载↓
- https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.zip
+ 3.使用jdk25 没有去这里[下载](https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.zip)
  4.控制台输入 java -version 查看Java版本
  5.点击 启动.bat
  6.开启游戏输入 127.0.0.1:25565
