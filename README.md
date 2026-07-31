@@ -1,32 +1,31 @@
 ## MR_Server
 
-**English** · [中文](README_CN.md)
+**简体中文** · [English](README_EN.md)
 
-The MR series server and resource pack can be downloaded here
-
-The MR series projects are permanently free of charge
-If you encounter any questions, please join 🐧1059365498 
-
-## 📝Introduction
-
-· The MR server has been polished for nearly seven months since its release
-
-· It has achieved nearly 200+ downloads on MineBBS
-
-· Includes 80+ plugins to enhance entertainment gameplay
-
-## 🍉Types of gameplay
-
-· It has built-in elements such as CE and mythical creatures
-
-· In terms of add-ons, Mucus Technology and its spiritual successor pylon can be added
-
-· You can also engage in various gameplay elements in the game, such as aging, electricity generation, magic, firearms, farming, combat, and more
-
-## 🎗Other server
-
-· It is also equipped with server terminals for mini-games such as MR_Game and MR_Pestcan
-
-· Both support one-click server setup and one-click deployment,And robust performance optimization
-
-## 🎯requirements
+MR系列服务端与资源包可在此处下载
+MR系列项目永久免费使用
+如有问题，可加入企鹅群：1059365498
+ 
+##📝项目介绍
+ 
+- MR服务端自发布以来，历经近七个月打磨优化
+- 在MineBBS论坛累计下载量近200次
+- 内置80余款插件，丰富趣味游玩内容
+ 
+##🍉游戏玩法类型
+ 
+- 内置ce、神话生物等模组内容
+- 拓展模组可添加粘液科技及其续作高塔模组
+- 游戏内包含多种游玩体系：养老、生电、魔法、枪械、农耕、战斗等
+ 
+##🎗其他配套服务端
+ 
+- 配套**MR_Game**、**MR_Pestcan**等小游戏专用服务端
+- 两款服务端均支持一键开服、一键部署，且经过深度性能优化
+ 
+##🎯配置要求
+- 搭配**多核优化**(理论上核心越多优化越强)
+- 人数  === 核心 === 内存 === 硬盘
+- 10人      2H      12G     30G
+- 20人      4H      20G     60G
+- 50人      8H      50G     150G
